@@ -1,6 +1,6 @@
 {
   "name": "tigasorei-ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple ui components with styled components and styled system for simple project with atomic components",
   "main": "index.js",
   "scripts": {
